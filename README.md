@@ -3,13 +3,14 @@
 <p align="left">I'm a Computer Science and Engineering student at the University of Dhaka with a passion for building things that work and make a difference. I love turning ideas into functional applications, whether it's a web app, a machine learning model, or an optimized algorithm.
 
 I enjoy full-stack development with Django, Spring Boot, and Express.js, and I'm always up for a good problem to solve—whether it's in code or real life. When I'm not coding, you’ll probably find me exploring new tech, improving my problem-solving skills, or diving into machine learning.</p>
-<img align="right"  width="200" src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mastermind-fa&label=Profile%20views&color=0e75b6&style=flat" alt="mastermind-fa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mastermind-fa" alt="mastermind-fa" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img align="right"  width="200" src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
 
 - 🔭 I’m currently working on [Django Web Application for E-commerce](https://you-fashion-frontend.vercel.app/)
 
