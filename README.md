@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Farhana Alam</h1>
-<h3 align="center">I am a comp sci student at University of Dhaka</h3>
+💻 Full Stack Developer | Problem Solver | Machine Learning Enthusiast
+I'm a Computer Science and Engineering student at the University of Dhaka with a passion for building things that work and make a difference. I love turning ideas into functional applications, whether it's a web app, a machine learning model, or an optimized algorithm.
+
+I enjoy full-stack development with Django, Spring Boot, and Express.js, and I'm always up for a good problem to solve—whether it's in code or real life. When I'm not coding, you’ll probably find me exploring new tech, improving my problem-solving skills, or diving into machine learning.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mastermind-fa&label=Profile%20views&color=0e75b6&style=flat" alt="mastermind-fa" /> </p>
 
@@ -11,7 +14,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Dart, NodeJS, Django**
 
-- 👨‍💻 All of my projects are available at [https://mastermind-fa.github.io/portfolio1/](https://mastermind-fa.github.io/portfolio1/)
+- 👨‍💻 All of my projects are available at [https://portfolio1-iota-opal.vercel.app/](https://portfolio1-iota-opal.vercel.app/)
 
 - 💬 Ask me about **Django, Python, Javascript, Java**
 
