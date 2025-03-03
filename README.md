@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Farhana Alam</h1>
-💻 Full Stack Developer | Problem Solver | Machine Learning Enthusiast
-<p>I'm a Computer Science and Engineering student at the University of Dhaka with a passion for building things that work and make a difference. I love turning ideas into functional applications, whether it's a web app, a machine learning model, or an optimized algorithm.
+<h3 align="center">💻 Full Stack Developer | Problem Solver | Machine Learning Enthusiast</h3>
+<p align="left">I'm a Computer Science and Engineering student at the University of Dhaka with a passion for building things that work and make a difference. I love turning ideas into functional applications, whether it's a web app, a machine learning model, or an optimized algorithm.
 
 I enjoy full-stack development with Django, Spring Boot, and Express.js, and I'm always up for a good problem to solve—whether it's in code or real life. When I'm not coding, you’ll probably find me exploring new tech, improving my problem-solving skills, or diving into machine learning.</p>
+<img align="right"  width="200" src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mastermind-fa&label=Profile%20views&color=0e75b6&style=flat" alt="mastermind-fa" /> </p>
 
