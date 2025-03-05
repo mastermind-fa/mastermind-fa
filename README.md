@@ -1,4 +1,4 @@
-![My Profile](https://github.com/your-username/your-repo/blob/main/profile.jpg)
+![My Profile]([https://github.com/your-username/your-repo/blob/main/profile.jpg](https://github.com/mastermind-fa/mastermind-fa/blob/main/DALL%C2%B7E%202025-03-06%2000.38.09%20-%20A%20futuristic%20computer%20setup%20in%20a%20dimly%20lit%20room%2C%20glowing%20with%20neon%20blue%20and%20purple%20lights.%20Multiple%20monitors%20display%20complex%20machine%20learning%20algorith.webp))
 
 
 <h1 align="center">Hi 👋, I'm Farhana Alam</h1>
