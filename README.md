@@ -1,4 +1,5 @@
-![My Profile](https://github.com/mastermind-fa/mastermind-fa/blob/main/profile.jpg)
+<img src="https://github.com/mastermind-fa/mastermind-fa/blob/main/profile.jpg" alt="GitHub Cover Image" width="800" height="400">
+
 
 <h1 align="center">Hi 👋, I'm Farhana Alam</h1>
 <h3 align="center">💻 Full Stack Developer | Problem Solver | Machine Learning Enthusiast</h3>
